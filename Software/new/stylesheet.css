@@ -1,0 +1,42 @@
+h1{
+	font-size: 50pt;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:3%;
+	text-decoration:underline;
+	color: black;
+}
+
+#pages  a{
+	width:14%;
+	white-space: nowrap;
+	display: inline-block;
+	text-align:center;
+	border-style: solid;
+	border-width:3px;
+	padding: 10px;
+	border:2px solid;
+	background-color:#f8f8ff;
+	font-size: 25pt;
+	text-align:center;
+	margin-right: 10px;
+	color:#ff0000;
+}
+
+#pages a:hover {	
+	 background-color: #000000;
+}
+
+body{
+	 height: 100%;
+	 max-height:100%;
+	 max-width: 100%;
+	 overflow: auto;
+	background-image: url("images/caraccident.png");
+	background-repeat:repeat-y;
+	background-size: cover;
+	font:serif;
+}
+
+
