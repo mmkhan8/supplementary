@@ -1,0 +1,881 @@
+Accident year,Police force,All accidents
+2000,Metropolitan Police,37708
+2000,Cumbria,1901
+2000,Lancashire,5501
+2000,Merseyside,6835
+2000,Greater Manchester,12011
+2000,Cheshire,4669
+2000,Northumbria,4862
+2000,Durham,1934
+2000,North Yorkshire,3141
+2000,West Yorkshire,9200
+2000,South Yorkshire,4877
+2000,Humberside,3456
+2000,Cleveland,1571
+2000,West Midlands,10640
+2000,Staffordshire,4688
+2000,West Mercia,3789
+2000,Warwickshire,2274
+2000,Derbyshire,3733
+2000,Nottinghamshire,4288
+2000,Lincolnshire,2565
+2000,Leicestershire,3821
+2000,Northamptonshire,2156
+2000,Cambridgeshire,3486
+2000,Norfolk,2645
+2000,Suffolk,2312
+2000,Bedfordshire,2035
+2000,Hertfordshire,4704
+2000,Essex,6985
+2000,Thames Valley,8659
+2000,Hampshire,7323
+2000,Surrey,4647
+2000,Kent,6086
+2000,Sussex,5974
+2000,City of London,417
+2000,Devon and Cornwall,5673
+2000,Avon and Somerset,5280
+2000,Gloucestershire,1945
+2000,Wiltshire,2393
+2000,Dorset,2897
+2000,North Wales,2656
+2000,Gwent,1626
+2000,South Wales,3598
+2000,Dyfed-Powys,1669
+2000,Police Scotland,15099
+2001,Metropolitan Police,36328
+2001,Cumbria,1823
+2001,Lancashire,5920
+2001,Merseyside,5783
+2001,Greater Manchester,11249
+2001,Cheshire,4523
+2001,Northumbria,4746
+2001,Durham,1862
+2001,North Yorkshire,3142
+2001,West Yorkshire,8740
+2001,South Yorkshire,5038
+2001,Humberside,3408
+2001,Cleveland,1532
+2001,West Midlands,10462
+2001,Staffordshire,4563
+2001,West Mercia,3846
+2001,Warwickshire,2244
+2001,Derbyshire,3681
+2001,Nottinghamshire,4103
+2001,Lincolnshire,2612
+2001,Leicestershire,3764
+2001,Northamptonshire,1945
+2001,Cambridgeshire,3503
+2001,Norfolk,2789
+2001,Suffolk,2356
+2001,Bedfordshire,1983
+2001,Hertfordshire,4518
+2001,Essex,6773
+2001,Thames Valley,8356
+2001,Hampshire,6934
+2001,Surrey,5153
+2001,Kent,6297
+2001,Sussex,5674
+2001,City of London,423
+2001,Devon and Cornwall,5976
+2001,Avon and Somerset,5286
+2001,Gloucestershire,2074
+2001,Wiltshire,2480
+2001,Dorset,2950
+2001,North Wales,2501
+2001,Gwent,1464
+2001,South Wales,3799
+2001,Dyfed-Powys,1735
+2001,Police Scotland,14676
+2002,Metropolitan Police,33619
+2002,Cumbria,1966
+2002,Lancashire,5768
+2002,Merseyside,5329
+2002,Greater Manchester,10545
+2002,Cheshire,4314
+2002,Northumbria,4831
+2002,Durham,1948
+2002,North Yorkshire,3218
+2002,West Yorkshire,8663
+2002,South Yorkshire,4863
+2002,Humberside,3587
+2002,Cleveland,1501
+2002,West Midlands,10195
+2002,Staffordshire,4502
+2002,West Mercia,3706
+2002,Warwickshire,2135
+2002,Derbyshire,3749
+2002,Nottinghamshire,3773
+2002,Lincolnshire,2761
+2002,Leicestershire,3641
+2002,Northamptonshire,1979
+2002,Cambridgeshire,3417
+2002,Norfolk,2590
+2002,Suffolk,2300
+2002,Bedfordshire,1826
+2002,Hertfordshire,4521
+2002,Essex,6408
+2002,Thames Valley,8081
+2002,Hampshire,6819
+2002,Surrey,4745
+2002,Kent,6007
+2002,Sussex,5596
+2002,City of London,381
+2002,Devon and Cornwall,5783
+2002,Avon and Somerset,5318
+2002,Gloucestershire,2036
+2002,Wiltshire,2352
+2002,Dorset,2963
+2002,North Wales,2489
+2002,Gwent,1544
+2002,South Wales,3911
+2002,Dyfed-Powys,1756
+2002,Police Scotland,14315
+2003,Metropolitan Police,31550
+2003,Cumbria,1905
+2003,Lancashire,5271
+2003,Merseyside,5124
+2003,Greater Manchester,10184
+2003,Cheshire,4349
+2003,Northumbria,4935
+2003,Durham,1888
+2003,North Yorkshire,3138
+2003,West Yorkshire,8495
+2003,South Yorkshire,4817
+2003,Humberside,3437
+2003,Cleveland,1522
+2003,West Midlands,9555
+2003,Staffordshire,4463
+2003,West Mercia,3679
+2003,Warwickshire,2114
+2003,Derbyshire,3535
+2003,Nottinghamshire,3839
+2003,Lincolnshire,2737
+2003,Leicestershire,3423
+2003,Northamptonshire,1992
+2003,Cambridgeshire,3408
+2003,Norfolk,2618
+2003,Suffolk,2341
+2003,Bedfordshire,1639
+2003,Hertfordshire,4247
+2003,Essex,6182
+2003,Thames Valley,7504
+2003,Hampshire,6551
+2003,Surrey,4549
+2003,Kent,5776
+2003,Sussex,5489
+2003,City of London,294
+2003,Devon and Cornwall,5847
+2003,Avon and Somerset,5073
+2003,Gloucestershire,2009
+2003,Wiltshire,2234
+2003,Dorset,2719
+2003,North Wales,2374
+2003,Gwent,1470
+2003,South Wales,4055
+2003,Dyfed-Powys,1845
+2003,Police Scotland,13854
+2004,Metropolitan Police,28464
+2004,Cumbria,1909
+2004,Lancashire,5493
+2004,Merseyside,5068
+2004,Greater Manchester,9760
+2004,Cheshire,4274
+2004,Northumbria,4850
+2004,Durham,1777
+2004,North Yorkshire,3089
+2004,West Yorkshire,8038
+2004,South Yorkshire,4588
+2004,Humberside,3061
+2004,Cleveland,1486
+2004,West Midlands,8913
+2004,Staffordshire,4332
+2004,West Mercia,3616
+2004,Warwickshire,2172
+2004,Derbyshire,3505
+2004,Nottinghamshire,3616
+2004,Lincolnshire,2749
+2004,Leicestershire,3355
+2004,Northamptonshire,1975
+2004,Cambridgeshire,3450
+2004,Norfolk,2707
+2004,Suffolk,2220
+2004,Bedfordshire,1659
+2004,Hertfordshire,4231
+2004,Essex,6131
+2004,Thames Valley,7169
+2004,Hampshire,6081
+2004,Surrey,4952
+2004,Kent,5810
+2004,Sussex,5271
+2004,City of London,314
+2004,Devon and Cornwall,5799
+2004,Avon and Somerset,5263
+2004,Gloucestershire,2022
+2004,Wiltshire,2239
+2004,Dorset,2621
+2004,North Wales,2196
+2004,Gwent,1498
+2004,South Wales,3928
+2004,Dyfed-Powys,1913
+2004,Police Scotland,13846
+2005,Metropolitan Police,26501
+2005,Cumbria,1900
+2005,Lancashire,5491
+2005,Merseyside,4899
+2005,Greater Manchester,9222
+2005,Cheshire,3935
+2005,Northumbria,4650
+2005,Durham,1780
+2005,North Yorkshire,2730
+2005,West Yorkshire,7277
+2005,South Yorkshire,4476
+2005,Humberside,2740
+2005,Cleveland,1308
+2005,West Midlands,9070
+2005,Staffordshire,4159
+2005,West Mercia,3352
+2005,Warwickshire,1980
+2005,Derbyshire,3441
+2005,Nottinghamshire,3699
+2005,Lincolnshire,2572
+2005,Leicestershire,3270
+2005,Northamptonshire,1838
+2005,Cambridgeshire,3384
+2005,Norfolk,2653
+2005,Suffolk,2237
+2005,Bedfordshire,1700
+2005,Hertfordshire,3954
+2005,Essex,5595
+2005,Thames Valley,7149
+2005,Hampshire,5782
+2005,Surrey,4826
+2005,Kent,5519
+2005,Sussex,5219
+2005,City of London,311
+2005,Devon and Cornwall,6083
+2005,Avon and Somerset,5356
+2005,Gloucestershire,1940
+2005,Wiltshire,2023
+2005,Dorset,2617
+2005,North Wales,1879
+2005,Gwent,1227
+2005,South Wales,3858
+2005,Dyfed-Powys,1751
+2005,Police Scotland,13382
+2006,Metropolitan Police,24474
+2006,Cumbria,1706
+2006,Lancashire,5316
+2006,Merseyside,4330
+2006,Greater Manchester,8428
+2006,Cheshire,3690
+2006,Northumbria,4400
+2006,Durham,1661
+2006,North Yorkshire,2612
+2006,West Yorkshire,7162
+2006,South Yorkshire,4377
+2006,Humberside,2782
+2006,Cleveland,1265
+2006,West Midlands,8501
+2006,Staffordshire,4113
+2006,West Mercia,3209
+2006,Warwickshire,1917
+2006,Derbyshire,3222
+2006,Nottinghamshire,3730
+2006,Lincolnshire,2392
+2006,Leicestershire,2988
+2006,Northamptonshire,1756
+2006,Cambridgeshire,3112
+2006,Norfolk,2354
+2006,Suffolk,2087
+2006,Bedfordshire,1680
+2006,Hertfordshire,3647
+2006,Essex,5330
+2006,Thames Valley,7326
+2006,Hampshire,5578
+2006,Surrey,4684
+2006,Kent,5368
+2006,Sussex,5039
+2006,City of London,355
+2006,Devon and Cornwall,5752
+2006,Avon and Somerset,5110
+2006,Gloucestershire,1727
+2006,Wiltshire,1908
+2006,Dorset,2364
+2006,North Wales,2070
+2006,Gwent,1121
+2006,South Wales,3708
+2006,Dyfed-Powys,1802
+2006,Police Scotland,13008
+2007,Metropolitan Police,22924
+2007,Cumbria,1744
+2007,Lancashire,5247
+2007,Merseyside,3831
+2007,Greater Manchester,7639
+2007,Cheshire,3545
+2007,Northumbria,4181
+2007,Durham,1550
+2007,North Yorkshire,2610
+2007,West Yorkshire,6867
+2007,South Yorkshire,4245
+2007,Humberside,2722
+2007,Cleveland,1073
+2007,West Midlands,8546
+2007,Staffordshire,3956
+2007,West Mercia,3335
+2007,Warwickshire,1943
+2007,Derbyshire,3279
+2007,Nottinghamshire,3655
+2007,Lincolnshire,2462
+2007,Leicestershire,2913
+2007,Northamptonshire,1660
+2007,Cambridgeshire,2888
+2007,Norfolk,2411
+2007,Suffolk,2076
+2007,Bedfordshire,1740
+2007,Hertfordshire,3587
+2007,Essex,5004
+2007,Thames Valley,6837
+2007,Hampshire,5561
+2007,Surrey,4272
+2007,Kent,5391
+2007,Sussex,5107
+2007,City of London,341
+2007,Devon and Cornwall,5687
+2007,Avon and Somerset,5042
+2007,Gloucestershire,1516
+2007,Wiltshire,1716
+2007,Dorset,2327
+2007,North Wales,1922
+2007,Gwent,1079
+2007,South Wales,3572
+2007,Dyfed-Powys,1767
+2007,Police Scotland,12345
+2008,Metropolitan Police,22819
+2008,Cumbria,1573
+2008,Lancashire,4961
+2008,Merseyside,3509
+2008,Greater Manchester,7146
+2008,Cheshire,3316
+2008,Northumbria,4120
+2008,Durham,1513
+2008,North Yorkshire,2367
+2008,West Yorkshire,6501
+2008,South Yorkshire,3942
+2008,Humberside,2699
+2008,Cleveland,1056
+2008,West Midlands,7863
+2008,Staffordshire,3356
+2008,West Mercia,3081
+2008,Warwickshire,1770
+2008,Derbyshire,3133
+2008,Nottinghamshire,3356
+2008,Lincolnshire,2219
+2008,Leicestershire,2873
+2008,Northamptonshire,1668
+2008,Cambridgeshire,2783
+2008,Norfolk,2074
+2008,Suffolk,2061
+2008,Bedfordshire,1678
+2008,Hertfordshire,3098
+2008,Essex,4455
+2008,Thames Valley,6365
+2008,Hampshire,4859
+2008,Surrey,4150
+2008,Kent,5208
+2008,Sussex,4640
+2008,City of London,341
+2008,Devon and Cornwall,4769
+2008,Avon and Somerset,4134
+2008,Gloucestershire,1411
+2008,Wiltshire,1554
+2008,Dorset,2238
+2008,North Wales,1956
+2008,Gwent,1060
+2008,South Wales,3207
+2008,Dyfed-Powys,1560
+2008,Police Scotland,12149
+2009,Metropolitan Police,22979
+2009,Cumbria,1471
+2009,Lancashire,4704
+2009,Merseyside,3212
+2009,Greater Manchester,6510
+2009,Cheshire,3270
+2009,Northumbria,3958
+2009,Durham,1681
+2009,North Yorkshire,2346
+2009,West Yorkshire,6255
+2009,South Yorkshire,3799
+2009,Humberside,2558
+2009,Cleveland,965
+2009,West Midlands,7293
+2009,Staffordshire,3235
+2009,West Mercia,3212
+2009,Warwickshire,1565
+2009,Derbyshire,2998
+2009,Nottinghamshire,3219
+2009,Lincolnshire,2346
+2009,Leicestershire,2689
+2009,Northamptonshire,1474
+2009,Cambridgeshire,2668
+2009,Norfolk,1962
+2009,Suffolk,1947
+2009,Bedfordshire,1574
+2009,Hertfordshire,2791
+2009,Essex,4232
+2009,Thames Valley,5911
+2009,Hampshire,4683
+2009,Surrey,4094
+2009,Kent,5158
+2009,Sussex,4509
+2009,City of London,300
+2009,Devon and Cornwall,4523
+2009,Avon and Somerset,4113
+2009,Gloucestershire,1254
+2009,Wiltshire,1385
+2009,Dorset,2048
+2009,North Wales,1724
+2009,Gwent,980
+2009,South Wales,2880
+2009,Dyfed-Powys,1542
+2009,Police Scotland,11537
+2010,Metropolitan Police,23810
+2010,Cumbria,1284
+2010,Lancashire,4439
+2010,Merseyside,3161
+2010,Greater Manchester,5444
+2010,Cheshire,3018
+2010,Northumbria,3599
+2010,Durham,1417
+2010,North Yorkshire,2105
+2010,West Yorkshire,5761
+2010,South Yorkshire,3459
+2010,Humberside,2466
+2010,Cleveland,996
+2010,West Midlands,6216
+2010,Staffordshire,3244
+2010,West Mercia,2783
+2010,Warwickshire,1506
+2010,Derbyshire,2820
+2010,Nottinghamshire,3004
+2010,Lincolnshire,2434
+2010,Leicestershire,2637
+2010,Northamptonshire,1329
+2010,Cambridgeshire,2551
+2010,Norfolk,1796
+2010,Suffolk,1812
+2010,Bedfordshire,1610
+2010,Hertfordshire,2702
+2010,Essex,4007
+2010,Thames Valley,5572
+2010,Hampshire,4809
+2010,Surrey,3803
+2010,Kent,4837
+2010,Sussex,4039
+2010,City of London,335
+2010,Devon and Cornwall,4281
+2010,Avon and Somerset,3816
+2010,Gloucestershire,1146
+2010,Wiltshire,1279
+2010,Dorset,1950
+2010,North Wales,1695
+2010,Gwent,896
+2010,South Wales,2805
+2010,Dyfed-Powys,1454
+2010,Police Scotland,10287
+2011,Metropolitan Police,24113
+2011,Cumbria,1256
+2011,Lancashire,4072
+2011,Merseyside,3023
+2011,Greater Manchester,5127
+2011,Cheshire,2925
+2011,Northumbria,3426
+2011,Durham,1383
+2011,North Yorkshire,1997
+2011,West Yorkshire,5402
+2011,South Yorkshire,3408
+2011,Humberside,2681
+2011,Cleveland,986
+2011,West Midlands,5365
+2011,Staffordshire,3042
+2011,West Mercia,2825
+2011,Warwickshire,1508
+2011,Derbyshire,2820
+2011,Nottinghamshire,2984
+2011,Lincolnshire,2355
+2011,Leicestershire,2471
+2011,Northamptonshire,1252
+2011,Cambridgeshire,2416
+2011,Norfolk,1864
+2011,Suffolk,1851
+2011,Bedfordshire,1574
+2011,Hertfordshire,2650
+2011,Essex,4019
+2011,Thames Valley,5722
+2011,Hampshire,5000
+2011,Surrey,4023
+2011,Kent,4867
+2011,Sussex,3988
+2011,City of London,355
+2011,Devon and Cornwall,4251
+2011,Avon and Somerset,3537
+2011,Gloucestershire,1194
+2011,Wiltshire,1413
+2011,Dorset,1926
+2011,North Wales,1600
+2011,Gwent,712
+2011,South Wales,2715
+2011,Dyfed-Powys,1407
+2011,Police Scotland,9969
+2012,Metropolitan Police,23721
+2012,Cumbria,1245
+2012,Lancashire,3939
+2012,Merseyside,3050
+2012,Greater Manchester,4378
+2012,Cheshire,2824
+2012,Northumbria,3223
+2012,Durham,1248
+2012,North Yorkshire,2100
+2012,West Yorkshire,5415
+2012,South Yorkshire,3155
+2012,Humberside,2587
+2012,Cleveland,1021
+2012,West Midlands,4838
+2012,Staffordshire,2858
+2012,West Mercia,2568
+2012,Warwickshire,1488
+2012,Derbyshire,2525
+2012,Nottinghamshire,2853
+2012,Lincolnshire,2292
+2012,Leicestershire,2464
+2012,Northamptonshire,1197
+2012,Cambridgeshire,2319
+2012,Norfolk,1770
+2012,Suffolk,1819
+2012,Bedfordshire,1478
+2012,Hertfordshire,2642
+2012,Essex,3935
+2012,Thames Valley,5418
+2012,Hampshire,4741
+2012,Surrey,3967
+2012,Kent,4778
+2012,Sussex,3908
+2012,City of London,376
+2012,Devon and Cornwall,4013
+2012,Avon and Somerset,3390
+2012,Gloucestershire,1078
+2012,Wiltshire,1445
+2012,Dorset,1861
+2012,North Wales,1535
+2012,Gwent,741
+2012,South Wales,2283
+2012,Dyfed-Powys,1412
+2012,Police Scotland,9673
+2013,Metropolitan Police,22789
+2013,Cumbria,1226
+2013,Lancashire,3755
+2013,Merseyside,2655
+2013,Greater Manchester,3861
+2013,Cheshire,2561
+2013,Northumbria,3054
+2013,Durham,1180
+2013,North Yorkshire,2025
+2013,West Yorkshire,4866
+2013,South Yorkshire,2992
+2013,Humberside,2578
+2013,Cleveland,919
+2013,West Midlands,5115
+2013,Staffordshire,2804
+2013,West Mercia,2256
+2013,Warwickshire,1479
+2013,Derbyshire,2286
+2013,Nottinghamshire,2643
+2013,Lincolnshire,2310
+2013,Leicestershire,2392
+2013,Northamptonshire,1207
+2013,Cambridgeshire,2067
+2013,Norfolk,1776
+2013,Suffolk,1667
+2013,Bedfordshire,1302
+2013,Hertfordshire,2320
+2013,Essex,3856
+2013,Thames Valley,5190
+2013,Hampshire,4475
+2013,Surrey,3793
+2013,Kent,4872
+2013,Sussex,3948
+2013,City of London,308
+2013,Devon and Cornwall,3924
+2013,Avon and Somerset,3309
+2013,Gloucestershire,775
+2013,Wiltshire,1477
+2013,Dorset,1774
+2013,North Wales,1445
+2013,Gwent,874
+2013,South Wales,2345
+2013,Dyfed-Powys,1231
+2013,Police Scotland,8979
+2014,Metropolitan Police,25682
+2014,Cumbria,1397
+2014,Lancashire,3879
+2014,Merseyside,2831
+2014,Greater Manchester,4004
+2014,Cheshire,2673
+2014,Northumbria,3198
+2014,Durham,1242
+2014,North Yorkshire,2036
+2014,West Yorkshire,5043
+2014,South Yorkshire,3168
+2014,Humberside,2689
+2014,Cleveland,889
+2014,West Midlands,5603
+2014,Staffordshire,2799
+2014,West Mercia,2327
+2014,Warwickshire,1653
+2014,Derbyshire,2400
+2014,Nottinghamshire,2880
+2014,Lincolnshire,2194
+2014,Leicestershire,2479
+2014,Northamptonshire,1301
+2014,Cambridgeshire,2049
+2014,Norfolk,1882
+2014,Suffolk,1761
+2014,Bedfordshire,1577
+2014,Hertfordshire,2634
+2014,Essex,4117
+2014,Thames Valley,5429
+2014,Hampshire,4527
+2014,Surrey,3962
+2014,Kent,5279
+2014,Sussex,4297
+2014,City of London,348
+2014,Devon and Cornwall,3967
+2014,Avon and Somerset,3263
+2014,Gloucestershire,798
+2014,Wiltshire,1574
+2014,Dorset,1826
+2014,North Wales,1415
+2014,Gwent,884
+2014,South Wales,2328
+2014,Dyfed-Powys,1249
+2014,Police Scotland,8789
+2015,Metropolitan Police,24886
+2015,Cumbria,1293
+2015,Lancashire,3711
+2015,Merseyside,2706
+2015,Greater Manchester,3073
+2015,Cheshire,2322
+2015,Northumbria,3229
+2015,Durham,1073
+2015,North Yorkshire,2062
+2015,West Yorkshire,5286
+2015,South Yorkshire,3066
+2015,Humberside,2394
+2015,Cleveland,941
+2015,West Midlands,6096
+2015,Staffordshire,2599
+2015,West Mercia,2297
+2015,Warwickshire,1504
+2015,Derbyshire,2147
+2015,Nottinghamshire,2750
+2015,Lincolnshire,2134
+2015,Leicestershire,2249
+2015,Northamptonshire,1323
+2015,Cambridgeshire,1968
+2015,Norfolk,1749
+2015,Suffolk,1486
+2015,Bedfordshire,1478
+2015,Hertfordshire,2510
+2015,Essex,3746
+2015,Thames Valley,5190
+2015,Hampshire,4365
+2015,Surrey,3858
+2015,Kent,4878
+2015,Sussex,4302
+2015,City of London,346
+2015,Devon and Cornwall,3856
+2015,Avon and Somerset,3000
+2015,Gloucestershire,815
+2015,Wiltshire,1584
+2015,Dorset,1777
+2015,North Wales,1333
+2015,Gwent,689
+2015,South Wales,2196
+2015,Dyfed-Powys,1325
+2015,Police Scotland,8464
+2016,Metropolitan Police,24789
+2016,Cumbria,1281
+2016,Lancashire,3675
+2016,Merseyside,2494
+2016,Greater Manchester,2907
+2016,Cheshire,2370
+2016,Northumbria,2802
+2016,Durham,1013
+2016,North Yorkshire,2043
+2016,West Yorkshire,4969
+2016,South Yorkshire,3053
+2016,Humberside,2389
+2016,Cleveland,777
+2016,West Midlands,5905
+2016,Staffordshire,2582
+2016,West Mercia,2300
+2016,Warwickshire,1455
+2016,Derbyshire,1915
+2016,Nottinghamshire,2584
+2016,Lincolnshire,1988
+2016,Leicestershire,2174
+2016,Northamptonshire,1204
+2016,Cambridgeshire,2181
+2016,Norfolk,1864
+2016,Suffolk,1589
+2016,Bedfordshire,1527
+2016,Hertfordshire,2642
+2016,Essex,3694
+2016,Thames Valley,4871
+2016,Hampshire,4376
+2016,Surrey,3742
+2016,Kent,5047
+2016,Sussex,4143
+2016,City of London,368
+2016,Devon and Cornwall,3586
+2016,Avon and Somerset,3044
+2016,Gloucestershire,846
+2016,Wiltshire,1593
+2016,Dorset,1571
+2016,North Wales,998
+2016,Gwent,620
+2016,South Wales,2066
+2016,Dyfed-Powys,1238
+2016,Police Scotland,8346
+2017,Metropolitan Police,26747
+2017,Cumbria,1291
+2017,Lancashire,3355
+2017,Merseyside,2241
+2017,Greater Manchester,4069
+2017,Cheshire,2210
+2017,Northumbria,2362
+2017,Durham,1048
+2017,North Yorkshire,1856
+2017,West Yorkshire,4370
+2017,South Yorkshire,2794
+2017,Humberside,2328
+2017,Cleveland,679
+2017,West Midlands,5682
+2017,Staffordshire,1807
+2017,West Mercia,2121
+2017,Warwickshire,1368
+2017,Derbyshire,1643
+2017,Nottinghamshire,2492
+2017,Lincolnshire,1908
+2017,Leicestershire,1623
+2017,Northamptonshire,1068
+2017,Cambridgeshire,2004
+2017,Norfolk,1767
+2017,Suffolk,1573
+2017,Bedfordshire,1659
+2017,Hertfordshire,2242
+2017,Essex,3235
+2017,Thames Valley,4129
+2017,Hampshire,4072
+2017,Surrey,3502
+2017,Kent,4788
+2017,Sussex,3912
+2017,City of London,313
+2017,Devon and Cornwall,3568
+2017,Avon and Somerset,2774
+2017,Gloucestershire,799
+2017,Wiltshire,1320
+2017,Dorset,1596
+2017,North Wales,1004
+2017,Gwent,629
+2017,South Wales,1731
+2017,Dyfed-Powys,1190
+2017,Police Scotland,7113
+2018,Metropolitan Police,25390
+2018,Cumbria,1244
+2018,Lancashire,3379
+2018,Merseyside,2287
+2018,Greater Manchester,3762
+2018,Cheshire,2029
+2018,Northumbria,2340
+2018,Durham,951
+2018,North Yorkshire,1620
+2018,West Yorkshire,4132
+2018,South Yorkshire,2469
+2018,Humberside,2305
+2018,Cleveland,608
+2018,West Midlands,5490
+2018,Staffordshire,1417
+2018,West Mercia,1788
+2018,Warwickshire,1212
+2018,Derbyshire,1661
+2018,Nottinghamshire,2433
+2018,Lincolnshire,1882
+2018,Leicestershire,1586
+2018,Northamptonshire,1041
+2018,Cambridgeshire,1803
+2018,Norfolk,1782
+2018,Suffolk,1463
+2018,Bedfordshire,1498
+2018,Hertfordshire,2053
+2018,Essex,3163
+2018,Thames Valley,3832
+2018,Hampshire,3957
+2018,Surrey,3113
+2018,Kent,4403
+2018,Sussex,3859
+2018,City of London,272
+2018,Devon and Cornwall,3448
+2018,Avon and Somerset,2956
+2018,Gloucestershire,778
+2018,Wiltshire,1286
+2018,Dorset,1324
+2018,North Wales,985
+2018,Gwent,624
+2018,South Wales,1465
+2018,Dyfed-Powys,1140
+2018,Police Scotland,6405
+2019,Metropolitan Police,25055
+2019,Cumbria,1025
+2019,Lancashire,2949
+2019,Merseyside,2149
+2019,Greater Manchester,3622
+2019,Cheshire,1729
+2019,Northumbria,2296
+2019,Durham,851
+2019,North Yorkshire,1376
+2019,West Yorkshire,3620
+2019,South Yorkshire,2377
+2019,Humberside,2311
+2019,Cleveland,662
+2019,West Midlands,5416
+2019,Staffordshire,1312
+2019,West Mercia,1879
+2019,Warwickshire,1108
+2019,Derbyshire,1705
+2019,Nottinghamshire,2354
+2019,Lincolnshire,1893
+2019,Leicestershire,1316
+2019,Northamptonshire,1113
+2019,Cambridgeshire,1696
+2019,Norfolk,1648
+2019,Suffolk,1362
+2019,Bedfordshire,1390
+2019,Hertfordshire,1960
+2019,Essex,2913
+2019,Thames Valley,3564
+2019,Hampshire,3657
+2019,Surrey,2964
+2019,Kent,4196
+2019,Sussex,3991
+2019,City of London,283
+2019,Devon and Cornwall,3404
+2019,Avon and Somerset,2935
+2019,Gloucestershire,845
+2019,Wiltshire,1333
+2019,Dorset,1276
+2019,North Wales,913
+2019,Gwent,715
+2019,South Wales,1546
+2019,Dyfed-Powys,1143
+2019,Police Scotland,5684
